@@ -1,9 +1,12 @@
 streamlit
 openai
-langchain
-langchain-community
-langchain-openai
-faiss-cpu
-pypdf
 python-dotenv
 tiktoken
+pypdf
+faiss-cpu
+# 关键：强制云端安装和你本地一模一样的版本
+langchain==0.3.27
+langchain-community>=0.3.0
+langchain-core>=0.3.0
+langchain-openai>=0.2.0
+langchain-text-splitters>=0.3.0
