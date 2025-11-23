@@ -1,12 +1,9 @@
 streamlit
-langchain>=0.1.0
+openai
+langchain
 langchain-community
-langchain-core
 langchain-openai
-langchain-text-splitters
 faiss-cpu
 pypdf
 python-dotenv
-openai
 tiktoken
-# 2025-11-23 force update
