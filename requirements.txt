@@ -9,3 +9,4 @@ pypdf
 python-dotenv
 openai
 tiktoken
+# 2025-11-23 force update
